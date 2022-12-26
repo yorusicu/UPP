@@ -1,2 +1,5 @@
-# UPP
-유니티 연습 프로젝트 폴더(UnityPracticeProject)
+# 유니티 연습 프로젝트(UnityPracticeProject)
+유니티 서적을 보고 클론코딩연습 폴더<br/>
+***
+### 클론코딩 리스트
+- [ ] 유니티 3D 온라인 액션 게임 공작소 클론코딩
